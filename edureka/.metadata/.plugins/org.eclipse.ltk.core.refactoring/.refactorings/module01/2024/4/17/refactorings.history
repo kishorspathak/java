@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;StringMethods.java&apos; to &apos;module01/src/com.training.java.strings&apos;&#x0D;&#x0A;- Original project: &apos;module01&apos;&#x0D;&#x0A;- Destination element: &apos;module01/src/com.training.java.strings&apos;&#x0D;&#x0A;- Original element: &apos;com.training.java.strings.StringMethods.java&apos;" description="Copy compilation unit" destination="/src&lt;com.training.java.strings" element1="/src&lt;com.training.java.strings{StringMethods.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1713803996348" units="1" version="1.0"/>
-</session>
