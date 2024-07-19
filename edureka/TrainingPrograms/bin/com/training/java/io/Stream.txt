@@ -1,0 +1,61 @@
+JAVA STREAM
+-------------------
+# In a river stream is "flow of water"
+# In java stream is "flow of data"
+
+# Whenever flow of data is to happen then a source and destination is required
+
+# Whenever something is typed on the keyboard, then data flows form keyboard to the computer
+# When we take a printout, then data flows from computer to the printer
+
+# data that may flow could be numeric values or character
+
+STREAM TYPES [Byte Stream & Character Stream]
+----------------------------------------------
+# if numeric data flows then its called "Byte Stream"
+# if character data flows then its called "Character Stream"
+
+BYTE STREAM TYPES [InputStream & OutputStream]
+-----------------------------------------------
+# if Byte data flows from outside to program then its called "InputStream"
+# if Byte data flows from program to outside then its called "OnputStream"
+
+# If the file is to be read then we use "FileInputStream"
+# If the file is to be written then we use "FileOutputStream"
+
+
+CHARACTER STREAM TYPES [READER & WRITER]
+---------------------------------------------
+# if Character data flows from outside to program then its called "Reader"
+# if Character data flows from program to outside then its called "Writer"
+
+# If the file is to be read then we use "FileReader"
+# If the file is to be written then we use "FileWriter"
+
+APACHE POI
+-----------
+For reading and writing a file in MSOffice format use apache-poi java library provided by "Apache software foundation"
+
+BYTE Info of plain text file
+------------------------------
+in a plain text file, the number of bytes roughly translates to the number of characters, but this translation depends on the character encoding used in the file. Here’s a brief overview of how this works with different common encodings:
+
+ASCII: In the ASCII encoding, each character is represented by one byte. Therefore, the number of bytes equals the number of characters. For example, the text "hello" is 5 characters long and takes up 5 bytes in ASCII.
+
+UTF-8: This is a variable-length encoding where:
+
+Characters in the ASCII range (0-127) take up 1 byte each.
+Characters outside this range can take up 2, 3, or 4 bytes. For instance, the character 'é' takes 2 bytes, and characters like '你好' (Chinese for "hello") take 3 bytes each.
+As a result, the number of bytes can be more than the number of characters for texts that include non-ASCII characters.
+
+UTF-16: This encoding uses 2 bytes for most characters but uses 4 bytes for some characters (those outside the Basic Multilingual Plane). For example:
+
+The text "hello" takes up 10 bytes in UTF-16 (5 characters * 2 bytes per character).
+The text "你好" takes 4 bytes (2 characters * 2 bytes per character).
+UTF-32: This encoding uses 4 bytes for every character, regardless of what the character is. For example:
+
+The text "hello" takes up 20 bytes in UTF-32 (5 characters * 4 bytes per character).
+The text "你好" takes 8 bytes (2 characters * 4 bytes per character).
+To summarize, the number of bytes in a plain text file depends on the character encoding used and the specific characters in the text. 
+For files containing only ASCII characters, the number of bytes is equal to the number of characters. 
+For files with non-ASCII characters, the number of bytes can be significantly higher than the number of characters, especially in encodings like UTF-16 and UTF-32.
