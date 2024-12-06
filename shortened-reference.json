@@ -1,0 +1,84 @@
+{
+    "settings":{
+       "identifier":"B000012997",
+       "communicationAppliesCopiesInput":false,
+       "languages":[
+          {
+             "text":"English",
+             "value":"3"
+          }
+       ],
+       "selectionId":-1,
+       "dateFormat":"MMM DD, YYYY",
+    },
+    "interview_values":[
+	    {
+          "connector":"UUID",
+          "guid":"69E80E97E7BDBA0831FD7CE51383A24C",
+          "id":4787963,
+          "auxValues":"",
+          "type":1,
+          "value":"B000012997"
+       },
+       {
+          "connector":"dataId",
+          "guid":"EC1382505B4C679BB2091B76978DE025",
+          "id":4787994,
+          "auxValues":"",
+          "type":1,
+          "value":"ff9853f0-ac32-498e-ab82-184509535336"
+       }
+	],
+    "metadataFormItemDefinitionVOs":[
+       {
+          "dataPrivacyTypeId":1,
+          "connectorNames":[
+             
+          ],
+          "minLength":null,
+          "uploadedFileDataSource":null,
+          "type":{
+             "displayMessageCode":"page.label.order.entry.type.text",
+             "id":1
+          },
+          "regexValidation":null,
+          "connectorDataElements":[
+             
+          ],
+          "isLockedForEdit":true,
+          "actiory":false,
+          "applicableVariants":[
+             
+          ],
+          "order":1,
+          "parentctDefaultValue":-1,
+          "dataElement":{
+             "objectSchemaName":"nw232air_mpsp_ntwc_ntw_s01",
+             "parentObd":null,
+             "externalFormatText":null
+          },
+          "multiSelectDefaultValues":[
+             
+          ],
+          "uploadedFileTypeId":1,
+          "menuValueItems":[
+             
+          ],
+          "criteriaItems":[
+             
+          ],
+          "isIndicatorEntry":false,
+          "name":"LetttValue":"1",
+          "maxLength":null
+       }],
+    "document":{
+       "communicationAppliesTouchpointSelection":false,
+       "communicationOrderEntryEnabled":true,
+       "communicationDataFeedWebService":{
+          "url":"",
+          "updatedPassword":"",
+          "username":""
+       }
+    },
+    "comm_ref_file":"B000012997|ff9853f0-ac32-498e-ab82-184509535336|Test||Test|Test|Test|||00000|Yes|01. None|Test|00000000|000000|NWB|NWB||||Central Print||B000012997|"
+ }
