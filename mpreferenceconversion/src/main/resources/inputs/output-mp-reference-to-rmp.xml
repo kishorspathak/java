@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AnswerSet title="" version="1.1">
+    <Answer name="HDAuditedAccountsTf">
+        <TFValue>true</TFValue>
+    </Answer>
+    <Answer name="HDBorrowingOnAllA/csTf">
+        <TFValue>true</TFValue>
+    </Answer>
+    <Answer name="HDComplexInstructionLtrTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDContactRMTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDCoronaVirusLoanNotLaunchedTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDCoronaVirusLoanOutOfScopeTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDCovenantRatchetsSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDCtrlCreditPapersSetTf">
+        <TFValue>true</TFValue>
+    </Answer>
+    <Answer name="HDCtrlRequestCDSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDCtrlSanctionReceivedTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDCtrlSubmitTf">
+        <TFValue>true</TFValue>
+    </Answer>
+    <Answer name="HDCtrlUFNDocumentProducedSetTf">
+        <TFValue>true</TFValue>
+    </Answer>
+    <Answer name="HDCustomerTrustTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDFeeMemberTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDFeeTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDFinCovTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDGRGSMUTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDGroupCashMgmtTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDGroupClientsTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDGroupIndividLimitTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDHalfYearlyAccountsTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDHeightenedMonitoringCustomerTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDIntellectualPropertyTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDInterBranchGroupTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDMAOtherTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDMASubsidAnyTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDMFAssetCoverTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDMFInterestCoverFixedTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDMFInterestCoverProfitTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDMFOtherTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDMFPrefCreditorsTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDManagementAccountsTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDN/SUndInternalTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDN/SUndertakingsTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPAccountantsAuditorsConfNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPAgedListNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPAssetLiabilitiesStatementNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPBAMSTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPBankStatementsTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPBuildContractTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPCashFlowNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPCashflowTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPClearSearchesTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPCollWarrTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPCostOvGteeTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPCostingsTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPCustomerContributionTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPDraftLeaseTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPEnviroReportTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPEstimatesTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPFinancialAccountsNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPFixedPriceContractTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPFranchiseDeclarationNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPHedgingTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPIncomeExpenditureNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPInternalTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPInvoicesTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPLifeCoverDocumentedNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPMortStatNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPNHBCNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPOtherTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPPlanningPermissionTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPProfessionalValuationTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPPropBudgetDevProgNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPSolvenTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPStepInRightsTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPTaxPaidToDateNewSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNSPUndertakingSaleTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNWCCYA/cBalTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDNonStandardTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDOverdraftExistUFNTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDOverdraftInterestOnlyTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDOverdraftUFNTf">
+        <TFValue>true</TFValue>
+    </Answer>
+    <Answer name="HDPropPreconTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDPropSaleProceedsTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDRentRollTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDRentalIncomeTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDRestrictedSecurityTf">
+        <TFValue>true</TFValue>
+    </Answer>
+    <Answer name="HDSameName/RightTf">
+        <TFValue>true</TFValue>
+    </Answer>
+    <Answer name="HDSecurityFeeTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDSharedSecurityTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDSigningPanelTf">
+        <TFValue>true</TFValue>
+    </Answer>
+    <Answer name="HDSingleLimitTf">
+        <TFValue>true</TFValue>
+    </Answer>
+    <Answer name="HDUmbrellaFacilityTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDValuationFeeTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDXrxNonStandardSetTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDXrxResolutionsTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDXrxSecuredTf">
+        <TFValue>true</TFValue>
+    </Answer>
+    <Answer name="HDAuditedAccountsDte">
+        <DateValue>30/4/2007</DateValue>
+    </Answer>
+    <Answer name="HDReviewDte">
+        <DateValue>30/10/2020</DateValue>
+    </Answer>
+    <Answer name="HDBorrTypeMc">
+        <MCValue>Sole Trader</MCValue>
+    </Answer>
+    <Answer name="HDCacheWhichTeamFacilityMc">
+        <MCValue>459</MCValue>
+    </Answer>
+    <Answer name="HDCacheWhichTeamReleaseMc">
+        <MCValue>4656</MCValue>
+    </Answer>
+    <Answer name="HDCustSectorMc">
+        <MCValue>CPB Coverage</MCValue>
+    </Answer>
+    <Answer name="HDDivestmentMc">
+        <MCValue>No</MCValue>
+    </Answer>
+    <Answer name="HDEng/ScotMc">
+        <RptValue>
+            <MCValue>England</MCValue>
+            <MCValue>Scotland or Wales</MCValue>
+        </RptValue>
+    </Answer>
+    <Answer name="HDFacilityTypeMc">
+        <MCValue>Overdraft</MCValue>
+    </Answer>
+    <Answer name="HDGoverningLawMc">
+        <MCValue>English</MCValue>
+    </Answer>
+    <Answer name="HDGroupDebtor/CreditorMc">
+        <MCValue>Debtor Group</MCValue>
+    </Answer>
+    <Answer name="HDGroupDebtorTypeMc">
+        <MCValue>Borrowing Control only</MCValue>
+    </Answer>
+    <Answer name="HDInterestSplitAllMc">
+        <MCValue>Split Rate with NO default</MCValue>
+    </Answer>
+    <Answer name="HDInterestSplitDebtorGrpMc">
+        <MCValue>Split Rate with NO default</MCValue>
+    </Answer>
+    <Answer name="HDInterestTypeMc">
+        <MCValue>Base</MCValue>
+    </Answer>
+    <Answer name="HDMAParent/SubsidiaryMc">
+        <MCValue>Neither(i.e.standalone Co.)</MCValue>
+    </Answer>
+    <Answer name="HDOverdraftCCYMc">
+        <MCValue>Sterling only</MCValue>
+    </Answer>
+    <Answer name="HDOverdraftTypeMc">
+        <MCValue>Group</MCValue>
+    </Answer>
+    <Answer name="HDRBS/NWMc">
+        <MCValue>Natwest</MCValue>
+    </Answer>
+    <Answer name="HDRMPCacheRBS/NWMc">
+        <MCValue>Natwest</MCValue>
+    </Answer>
+    <Answer name="HDRMPInterestTypeMc">
+        <MCValue>Base</MCValue>
+    </Answer>
+    <Answer name="HDRMPSecurity/FacilityMc">
+        <MCValue>Facility</MCValue>
+    </Answer>
+    <Answer name="HDRMPSegmentMc">
+        <MCValue>Commercial</MCValue>
+    </Answer>
+    <Answer name="HDRMPTargetSystemMc">
+        <MCValue>BOOVERDRAF</MCValue>
+    </Answer>
+    <Answer name="HDRMPUBBankMc">
+        <MCValue>Natwest</MCValue>
+    </Answer>
+    <Answer name="HDRenewalLetterMc">
+        <MCValue>new letter</MCValue>
+    </Answer>
+    <Answer name="HDSecurity/FacilityMc">
+        <MCValue>Facility</MCValue>
+    </Answer>
+    <Answer name="HDSegmentMc">
+        <MCValue>Commercial</MCValue>
+    </Answer>
+    <Answer name="HDXrxDocumentTypeMc">
+        <MCValue>FACILITY</MCValue>
+    </Answer>
+    <Answer name="HDXrxFacilityLimitCCYMc">
+        <MCValue>GBP</MCValue>
+    </Answer>
+    <Answer name="HDXrxFacilityTypeMc">
+        <MCValue>OVERDRAFT</MCValue>
+    </Answer>
+    <Answer name="HDXrxGoverningLawMc">
+        <MCValue>ENGLISH AND WELSH</MCValue>
+    </Answer>
+    <Answer name="HDXrxInterestTypeMc">
+        <MCValue>BASE</MCValue>
+    </Answer>
+    <Answer name="HDXrxSegmentMc">
+        <MCValue>COMMERCIAL BANKING</MCValue>
+    </Answer>
+    <Answer name="HDXrxSyndicatedTf">
+        <TFValue>false</TFValue>
+    </Answer>
+    <Answer name="HDAnnualAccountsNum">
+        <NumValue>270.0000000</NumValue>
+    </Answer>
+    <Answer name="HDBaseRateSetNum">
+        <NumValue>5.2500000</NumValue>
+    </Answer>
+    <Answer name="HDConditionNum">
+        <NumValue>1.0000000</NumValue>
+    </Answer>
+    <Answer name="HDDefaultRateFixedSetNum">
+        <NumValue>2.0000000</NumValue>
+    </Answer>
+    <Answer name="HDDefaultRateSetNum">
+        <NumValue>15.0000000</NumValue>
+    </Answer>
+    <Answer name="HDFacAmountNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDGrossLimitNum">
+        <NumValue>1000.0000000</NumValue>
+    </Answer>
+    <Answer name="HDHalfYearlyAccountsDaysNum">
+        <NumValue>60.0000000</NumValue>
+    </Answer>
+    <Answer name="HDInitialInterestRateNum">
+        <NumValue>1.0000000</NumValue>
+    </Answer>
+    <Answer name="HDInterestLimitNum">
+        <NumValue>100.0000000</NumValue>
+    </Answer>
+    <Answer name="HDMADaysRMPNum">
+        <NumValue>270.0000000</NumValue>
+    </Answer>
+    <Answer name="HDMARepeatsSetNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDMonitorFormOthNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDMortgageRateSetNum">
+        <NumValue>6.7900000</NumValue>
+    </Answer>
+    <Answer name="HDN/SUndInternalNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDN/SUndertakingsNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDNSPInternalNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDNSPOtherNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDNum">
+        <NumValue>2.0000000</NumValue>
+    </Answer>
+    <Answer name="HDPropSaleProcCondNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDRMPBaseRateNum">
+        <NumValue>5.2500000</NumValue>
+    </Answer>
+    <Answer name="HDRMPConditionNum">
+        <NumValue>1.0000000</NumValue>
+    </Answer>
+    <Answer name="HDRMPFacAmountNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDRMPSecurityNum">
+        <NumValue>1.0000000</NumValue>
+    </Answer>
+    <Answer name="HDRMPSecuritySuppNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDRMPSecurityValueNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDRMPTeamIDNum">
+        <RptValue>
+            <NumValue>4671.0000000</NumValue>
+            <NumValue>4671.0000000</NumValue>
+            <NumValue>459.0000000</NumValue>
+            <NumValue>4651.0000000</NumValue>
+            <NumValue>4656.0000000</NumValue>
+            <NumValue>4657.0000000</NumValue>
+            <NumValue>8617.0000000</NumValue>
+            <NumValue>8626.0000000</NumValue>
+            <NumValue>8633.0000000</NumValue>
+            <NumValue>8616.0000000</NumValue>
+            <NumValue>8618.0000000</NumValue>
+            <NumValue>6910.0000000</NumValue>
+            <NumValue>6911.0000000</NumValue>
+        </RptValue>
+    </Answer>
+    <Answer name="HDRMPUB3MLiborRateNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDRMPUBAA1RateNum">
+        <NumValue>8.4500000</NumValue>
+    </Answer>
+    <Answer name="HDRMPUBCOFRateNum">
+        <NumValue>3.4900000</NumValue>
+    </Answer>
+    <Answer name="HDRMPUBILDefaultRateNum">
+        <NumValue>9.0000000</NumValue>
+    </Answer>
+    <Answer name="HDRMPUBLDefaultRateNum">
+        <NumValue>17.0000000</NumValue>
+    </Answer>
+    <Answer name="HDRemainInterestRateNum">
+        <NumValue>2.0000000</NumValue>
+    </Answer>
+    <Answer name="HDSecurityNum">
+        <NumValue>1.0000000</NumValue>
+    </Answer>
+    <Answer name="HDSecuritySuppNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDSecurityValueNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDXrxFacilityAmountNum">
+        <NumValue>0E-7</NumValue>
+    </Answer>
+    <Answer name="HDAddForNoticesPmtTxt">
+        <TextValue>Borrower 's Address</TextValue>
+    </Answer>
+    <Answer name="HDBorrAdd1Txt">
+        <TextValue>Marquis Street</TextValue>
+    </Answer>
+    <Answer name="HDBorrAdd2Txt">
+        <TextValue>UK</TextValue>
+    </Answer>
+    <Answer name="HDBorrAdd3Txt">
+        <TextValue>PR4 2HY</TextValue>
+    </Answer>
+    <Answer name="HDBranchA/cHoldSortCodeMultiTxt">
+        <RptValue>
+            <TextValue>53 42 32</TextValue>
+            <TextValue>53 42 32</TextValue>
+        </RptValue>
+    </Answer>
+    <Answer name="HDBranchA/cHoldSortCodeSingleTxt">
+        <TextValue>53 42 32</TextValue>
+    </Answer>
+    <Answer name="HDBranchA/cHoldSortCodeTxt">
+        <TextValue>010705</TextValue>
+    </Answer>
+    <Answer name="HDBranchReqAdd1Txt">
+        <TextValue>1 Hardman Boulevard</TextValue>
+    </Answer>
+    <Answer name="HDBranchReqAdd2Txt">
+        <TextValue>Manchester</TextValue>
+    </Answer>
+    <Answer name="HDBranchReqAdd3Txt">
+        <TextValue>M3 3AP</TextValue>
+    </Answer>
+    <Answer name="HDBranchReqAdd4Txt">
+        <TextValue>United Kingdom</TextValue>
+    </Answer>
+    <Answer name="HDBranchReqNameTxt">
+        <TextValue>Corporate &amp; Commercial- REF</TextValue>
+    </Answer>
+    <Answer name="HDCompanyNameTxt">
+        <TextValue>BAXTER CONSTRUCTION LIMITED</TextValue>
+    </Answer>
+    <Answer name="HDCompanyNum">
+        <NumValue>02488907</NumValue>
+    </Answer>
+    <Answer name="HDCondTypeTxt">
+        <TextValue>Financial Statements</TextValue>
+    </Answer>
+    <Answer name="HDConditionDetailsTxt">
+        <TextValue>Annual Audited Financial required in 270 days of period end.</TextValue>
+    </Answer>
+    <Answer name="HDConditionTimingTxt">
+        <TextValue>Post-drawdown</TextValue>
+    </Answer>
+    <Answer name="HDConditionTypeTxt">
+        <TextValue>CONDITION</TextValue>
+    </Answer>
+    <Answer name="HDConnectionNameTxt">
+        <TextValue>Baxter Construction Ltd</TextValue>
+    </Answer>
+    <Answer name="HDContactEmailTxt">
+        <TextValue>abc.xyz@natwest.com</TextValue>
+    </Answer>
+    <Answer name="HDContacTf">
+        <TFValue>N/A</TFValue>
+    </Answer>
+    <Answer name="HDContactMobileTxt">
+        <TextValue>+44 (0) 7769 885327</TextValue>
+    </Answer>
+    <Answer name="HDContactNameTxt">
+        <TextValue>Abc Xyz</TextValue>
+    </Answer>
+    <Answer name="HDContactTelTxt">
+        <TextValue>+44 (0) 7769 885327</TextValue>
+    </Answer>
+    <Answer name="HDCountryOfIncorporationTxt">
+        <TextValue>United Kingdom (UK)</TextValue>
+    </Answer>
+    <Answer name="HDCtrlInterviewSetTxt">
+        <TextValue>UKCB_F_</TextValue>
+    </Answer>
+    <Answer name="HDOI_od_group_bus_new">
+        <TextValue/>
+    </Answer>
+    <Answer name="HDCtrlTemplateSetTxt">
+        <TextValue>UKCB_F_</TextValue>
+    </Answer>
+    <Answer name="HDOT_od_group_bus_new">
+        <TextValue/>
+    </Answer>
+    <Answer name="HDCtrlTransactionTypeSetTxt">
+        <TextValue>Overdraft - group</TextValue>
+    </Answer>
+    <Answer name="HDCustIdNoTxt">
+        <TextValue>1131798393</TextValue>
+    </Answer>
+    <Answer name="HDCustIdTxt">
+        <TextValue>1131798393</TextValue>
+    </Answer>
+    <Answer name="HDDocRefTxt">
+        <TextValue>175621600</TextValue>
+    </Answer>
+    <Answer name="HDDocSourceTxt">
+        <TextValue>RMP</TextValue>
+    </Answer>
+    <Answer name="HDFacA/cNum">
+        <RptValue>
+            <NumValue>56432345</NumValue>
+            <NumValue>56432346</NumValue>
+        </RptValue>
+    </Answer>
+    <Answer name="HDFacA/cNum">
+        <NumValue>20095252</NumValue>
+    </Answer>
+    <Answer name="HDFacPurposeTxt">
+        <TextValue>buying new plants</TextValue>
+    </Answer>
+    <Answer name="HDFacilityTypeTxt">
+        <TextValue>Overdraft</TextValue>
+    </Answer>
+    <Answer name="HDFinCovLTVTermTxt">
+        <TextValue>Annual</TextValue>
+    </Answer>
+    <Answer name="HDFinCovTypeTxt">
+        <TextValue>POSDRDW</TextValue>
+    </Answer>
+    <Answer name="HDNew/RenewTxt">
+        <TextValue>Renewal</TextValue>
+    </Answer>
+    <Answer name="HDRMNameTxt">
+        <TextValue>Mno Pqr</TextValue>
+    </Answer>
+    <Answer name="HDRMPBranchSortCodeTxt">
+        <TextValue>010705</TextValue>
+    </Answer>
+    <Answer name="HDRMPCompanyNameTxt">
+        <TextValue>BAXTER CONSTRUCTION LIMITED</TextValue>
+    </Answer>
+    <Answer name="HDRMPCompanyNum">
+        <NumValue>2488907</NumValue>
+    </Answer>
+    <Answer name="HDRMPCondTypeTxt">
+        <TextValue>Financial Statements</TextValue>
+    </Answer>
+    <Answer name="HDRMPConditionDetailsTxt">
+        <TextValue>Annual Audited Financial required in 270 days of period end.</TextValue>
+    </Answer>
+    <Answer name="HDRMPConditionTimingTxt">
+        <TextValue>Post-drawdown</TextValue>
+    </Answer>
+    <Answer name="HDRMPConditionTypeCodeTxt">
+        <TextValue>AA</TextValue>
+    </Answer>
+    <Answer name="HDRMPConditionTypeTxt">
+        <TextValue>CONDITION</TextValue>
+    </Answer>
+    <Answer name="HDRMPConnectionNameTxt">
+        <TextValue>Baxter Construction Ltd</TextValue>
+    </Answer>
+    <Answer name="HDRMPCountryOfIncorpTxt">
+        <TextValue>United Kingdom (UK)</TextValue>
+    </Answer>
+    <Answer name="HDRMPCustIdNoTxt">
+        <TextValue>1131798393</TextValue>
+    </Answer>
+    <Answer name="HDRMPFacA/cNum">
+        <NumValue>20095252</NumValue>
+    </Answer>
+    <Answer name="HDRMPFacilityCurrencyTxt">
+        <TextValue>GBP</TextValue>
+    </Answer>
+    <Answer name="HDRMPFacilityTypeCodeTxt">
+        <TextValue>40</TextValue>
+    </Answer>
+    <Answer name="HDRMPFacilityTypeTxt">
+        <TextValue>Overdraft</TextValue>
+    </Answer>
+    <Answer name="HDRMPRMNameTxt">
+        <TextValue>Mno Pqr</TextValue>
+    </Answer>
+    <Answer name="HDRMPSecurityPledgedByTxt">
+        <TextValue>BAXTER CONSTRUCTION LIMITED</TextValue>
+    </Answer>
+    <Answer name="HDRMPSecurityScheduleTxt">
+        <TextValue>1 Debenture (Held) pledged by BAXTER CONSTRUCTION LIMITED</TextValue>
+    </Answer>
+    <Answer name="HDRMPSecurityStatusTxt">
+        <TextValue>Held</TextValue>
+    </Answer>
+    <Answer name="HDRMPSecurityTypeCodeTxt">
+        <TextValue>DEB</TextValue>
+    </Answer>
+    <Answer name="HDRMPSecurityTypeTxt">
+        <TextValue>Debenture</TextValue>
+    </Answer>
+    <Answer name="HDRMPTeamNameTxt">
+        <RptValue>
+            <TextValue>Edinburgh Commercial 1</TextValue>
+            <TextValue>Edinburgh Commercial 1</TextValue>
+            <TextValue>MD Facility Agreement Requests</TextValue>
+            <TextValue>MD Facility Request</TextValue>
+            <TextValue>MD Release Request</TextValue>
+            <TextValue>MD Security Request (E&amp;W)</TextValue>
+            <TextValue>SD  Edinburgh Comm Team 1</TextValue>
+            <TextValue>SD  Facility Agreement Request</TextValue>
+            <TextValue>SD  Facility Request</TextValue>
+            <TextValue>SD  Release Request</TextValue>
+            <TextValue>SD  Security Request</TextValue>
+            <TextValue>SD Facility Agreement Request</TextValue>
+            <TextValue>SD Facility Request</TextValue>
+        </RptValue>
+    </Answer>
+    <Answer name="HDRMPTeamTypeTxt">
+        <RptValue>
+            <TextValue>R</TextValue>
+            <TextValue>S</TextValue>
+            <TextValue>F</TextValue>
+            <TextValue>F</TextValue>
+            <TextValue>R</TextValue>
+            <TextValue>S</TextValue>
+            <TextValue>R</TextValue>
+            <TextValue>F</TextValue>
+            <TextValue>F</TextValue>
+            <TextValue>R</TextValue>
+            <TextValue>S</TextValue>
+            <TextValue>F</TextValue>
+            <TextValue>F</TextValue>
+        </RptValue>
+    </Answer>
+    <Answer name="HDRMPUserRoleTxt">
+        <TextValue>RM</TextValue>
+    </Answer>
+    <Answer name="HDSalutationTxt">
+        <TextValue>Mr</TextValue>
+    </Answer>
+    <Answer name="HDSecurityPledgedByTxt">
+        <TextValue>BAXTER CONSTRUCTION LIMITED</TextValue>
+    </Answer>
+    <Answer name="HDSecurityScheduleTxt">
+        <TextValue>1 Debenture (Held) pledged by BAXTER CONSTRUCTION LIMITED</TextValue>
+    </Answer>
+    <Answer name="HDSecurityStatusTxt">
+        <TextValue>Held</TextValue>
+    </Answer>
+    <Answer name="HDSecurityTypeTxt">
+        <TextValue>Debenture</TextValue>
+    </Answer>
+    <Answer name="HDSigningPanelDesignationTxt">
+        <TextValue>RM</TextValue>
+    </Answer>
+    <Answer name="HDSigningPanelTxt">
+        <TextValue>MNO PQR</TextValue>
+    </Answer>
+    <Answer name="HDSoleTraderFirstNameTxt">
+        <TextValue>ABC</TextValue>
+    </Answer>
+    <Answer name="HDSoleTraderSurnameTxt">
+        <TextValue>Limited</TextValue>
+    </Answer>
+    <Answer name="HDUBRMPFacilityCurrencyTxt">
+        <TextValue>GBP</TextValue>
+    </Answer>
+    <Answer name="HDXrxAccountNum">
+        <NumValue>20095252</NumValue>
+    </Answer>
+    <Answer name="HDXrxCINNum">
+        <NumValue>1131798393</NumValue>
+    </Answer>
+    <Answer name="HDXrxCISTxt">
+        <TextValue>Z1QFVGB</TextValue>
+    </Answer>
+    <Answer name="HDXrxConnectionNameTxt">
+        <TextValue>Baxter Construction Ltd</TextValue>
+    </Answer>
+    <Answer name="HDXrxCustomerNameTxt">
+        <TextValue>BAXTER CONSTRUCTION LIMITED</TextValue>
+    </Answer>
+    <Answer name="HDOnlineRefTxt">
+        <TextValue>175621600</TextValue>
+    </Answer>
+    <Answer name="HDXrxRMPCodeTxt">
+        <TextValue>1</TextValue>
+    </Answer>
+    <Answer name="HDXrxRMPFacRefTxt">
+        <TextValue>576648200</TextValue>
+    </Answer>
+    <Answer name="HDXrxSRSIDTxt">
+        <TextValue>2355164</TextValue>
+    </Answer>
+    <Answer name="HDXrxSortCodeTxt">
+        <TextValue>010705</TextValue>
+    </Answer>
+    <Answer name="HD_TemplateVersion">
+        <TextValue>version267</TextValue>
+    </Answer>
+</AnswerSet>

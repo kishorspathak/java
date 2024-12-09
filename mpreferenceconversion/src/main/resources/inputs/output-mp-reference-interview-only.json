@@ -1,0 +1,1041 @@
+{"interview_values": [
+    {
+        "connector": "HDAuditedAccountsTf",
+        "value": true
+    },
+    {
+        "connector": "HDBorrowingOnAllA/csTf",
+        "value": true
+    },
+    {
+        "connector": "HDComplexInstructionLtrTf",
+        "value": false
+    },
+    {
+        "connector": "HDContactRMTf",
+        "value": false
+    },
+    {
+        "connector": "HDCoronaVirusLoanNotLaunchedTf",
+        "value": false
+    },
+    {
+        "connector": "HDCoronaVirusLoanOutOfScopeTf",
+        "value": false
+    },
+    {
+        "connector": "HDCovenantRatchetsSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDCtrlCreditPapersSetTf",
+        "value": true
+    },
+    {
+        "connector": "HDCtrlRequestCDSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDCtrlSanctionReceivedTf",
+        "value": false
+    },
+    {
+        "connector": "HDCtrlSubmitTf",
+        "value": true
+    },
+    {
+        "connector": "HDCtrlUFNDocumentProducedSetTf",
+        "value": true
+    },
+    {
+        "connector": "HDCustomerTrustTf",
+        "value": false
+    },
+    {
+        "connector": "HDFeeMemberTf",
+        "value": false
+    },
+    {
+        "connector": "HDFeeTf",
+        "value": false
+    },
+    {
+        "connector": "HDFinCovTf",
+        "value": false
+    },
+    {
+        "connector": "HDGRGSMUTf",
+        "value": false
+    },
+    {
+        "connector": "HDGroupCashMgmtTf",
+        "value": false
+    },
+    {
+        "connector": "HDGroupClientsTf",
+        "value": false
+    },
+    {
+        "connector": "HDGroupIndividLimitTf",
+        "value": false
+    },
+    {
+        "connector": "HDHalfYearlyAccountsTf",
+        "value": false
+    },
+    {
+        "connector": "HDHeightenedMonitoringCustomerTf",
+        "value": false
+    },
+    {
+        "connector": "HDIntellectualPropertyTf",
+        "value": false
+    },
+    {
+        "connector": "HDInterBranchGroupTf",
+        "value": false
+    },
+    {
+        "connector": "HDMAOtherTf",
+        "value": false
+    },
+    {
+        "connector": "HDMASubsidAnyTf",
+        "value": false
+    },
+    {
+        "connector": "HDMFAssetCoverTf",
+        "value": false
+    },
+    {
+        "connector": "HDMFInterestCoverFixedTf",
+        "value": false
+    },
+    {
+        "connector": "HDMFInterestCoverProfitTf",
+        "value": false
+    },
+    {
+        "connector": "HDMFOtherTf",
+        "value": false
+    },
+    {
+        "connector": "HDMFPrefCreditorsTf",
+        "value": false
+    },
+    {
+        "connector": "HDManagementAccountsTf",
+        "value": false
+    },
+    {
+        "connector": "HDN/SUndInternalTf",
+        "value": false
+    },
+    {
+        "connector": "HDN/SUndertakingsTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPAccountantsAuditorsConfNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPAgedListNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPAssetLiabilitiesStatementNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPBAMSTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPBankStatementsTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPBuildContractTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPCashFlowNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPCashflowTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPClearSearchesTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPCollWarrTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPCostOvGteeTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPCostingsTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPCustomerContributionTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPDraftLeaseTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPEnviroReportTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPEstimatesTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPFinancialAccountsNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPFixedPriceContractTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPFranchiseDeclarationNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPHedgingTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPIncomeExpenditureNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPInternalTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPInvoicesTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPLifeCoverDocumentedNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPMortStatNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPNHBCNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPOtherTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPPlanningPermissionTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPProfessionalValuationTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPPropBudgetDevProgNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPSolvenTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPStepInRightsTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPTaxPaidToDateNewSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDNSPUndertakingSaleTf",
+        "value": false
+    },
+    {
+        "connector": "HDNWCCYA/cBalTf",
+        "value": false
+    },
+    {
+        "connector": "HDNonStandardTf",
+        "value": false
+    },
+    {
+        "connector": "HDOverdraftExistUFNTf",
+        "value": false
+    },
+    {
+        "connector": "HDOverdraftInterestOnlyTf",
+        "value": false
+    },
+    {
+        "connector": "HDOverdraftUFNTf",
+        "value": true
+    },
+    {
+        "connector": "HDPropPreconTf",
+        "value": false
+    },
+    {
+        "connector": "HDPropSaleProceedsTf",
+        "value": false
+    },
+    {
+        "connector": "HDRentRollTf",
+        "value": false
+    },
+    {
+        "connector": "HDRentalIncomeTf",
+        "value": false
+    },
+    {
+        "connector": "HDRestrictedSecurityTf",
+        "value": true
+    },
+    {
+        "connector": "HDSameName/RightTf",
+        "value": true
+    },
+    {
+        "connector": "HDSecurityFeeTf",
+        "value": false
+    },
+    {
+        "connector": "HDSharedSecurityTf",
+        "value": false
+    },
+    {
+        "connector": "HDSigningPanelTf",
+        "value": true
+    },
+    {
+        "connector": "HDSingleLimitTf",
+        "value": true
+    },
+    {
+        "connector": "HDUmbrellaFacilityTf",
+        "value": false
+    },
+    {
+        "connector": "HDValuationFeeTf",
+        "value": false
+    },
+    {
+        "connector": "HDXrxNonStandardSetTf",
+        "value": false
+    },
+    {
+        "connector": "HDXrxResolutionsTf",
+        "value": false
+    },
+    {
+        "connector": "HDXrxSecuredTf",
+        "value": true
+    },
+    {
+        "connector": "HDAuditedAccountsDte",
+        "value": "30/4/2007"
+    },
+    {
+        "connector": "HDReviewDte",
+        "value": "30/10/2020"
+    },
+    {
+        "connector": "HDBorrTypeMc",
+        "value": "Sole Trader"
+    },
+    {
+        "connector": "HDCacheWhichTeamFacilityMc",
+        "value": "459"
+    },
+    {
+        "connector": "HDCacheWhichTeamReleaseMc",
+        "value": "4656"
+    },
+    {
+        "connector": "HDCustSectorMc",
+        "value": "CPB Coverage"
+    },
+    {
+        "connector": "HDDivestmentMc",
+        "value": "No"
+    },
+    {
+        "connector": "HDEng/ScotMc",
+        "value": [
+            "England",
+            "Scotland or Wales"
+        ]
+    },
+    {
+        "connector": "HDFacilityTypeMc",
+        "value": "Overdraft"
+    },
+    {
+        "connector": "HDGoverningLawMc",
+        "value": "English"
+    },
+    {
+        "connector": "HDGroupDebtor/CreditorMc",
+        "value": "Debtor Group"
+    },
+    {
+        "connector": "HDGroupDebtorTypeMc",
+        "value": "Borrowing Control only"
+    },
+    {
+        "connector": "HDInterestSplitAllMc",
+        "value": "Split Rate with NO default"
+    },
+    {
+        "connector": "HDInterestSplitDebtorGrpMc",
+        "value": "Split Rate with NO default"
+    },
+    {
+        "connector": "HDInterestTypeMc",
+        "value": "Base"
+    },
+    {
+        "connector": "HDMAParent/SubsidiaryMc",
+        "value": "Neither(i.e.standalone Co.)"
+    },
+    {
+        "connector": "HDOverdraftCCYMc",
+        "value": "Sterling only"
+    },
+    {
+        "connector": "HDOverdraftTypeMc",
+        "value": "Group"
+    },
+    {
+        "connector": "HDRBS/NWMc",
+        "value": "Natwest"
+    },
+    {
+        "connector": "HDRMPCacheRBS/NWMc",
+        "value": "Natwest"
+    },
+    {
+        "connector": "HDRMPInterestTypeMc",
+        "value": "Base"
+    },
+    {
+        "connector": "HDRMPSecurity/FacilityMc",
+        "value": "Facility"
+    },
+    {
+        "connector": "HDRMPSegmentMc",
+        "value": "Commercial"
+    },
+    {
+        "connector": "HDRMPTargetSystemMc",
+        "value": "BOOVERDRAF"
+    },
+    {
+        "connector": "HDRMPUBBankMc",
+        "value": "Natwest"
+    },
+    {
+        "connector": "HDRenewalLetterMc",
+        "value": "new letter"
+    },
+    {
+        "connector": "HDSecurity/FacilityMc",
+        "value": "Facility"
+    },
+    {
+        "connector": "HDSegmentMc",
+        "value": "Commercial"
+    },
+    {
+        "connector": "HDXrxDocumentTypeMc",
+        "value": "FACILITY"
+    },
+    {
+        "connector": "HDXrxFacilityLimitCCYMc",
+        "value": "GBP"
+    },
+    {
+        "connector": "HDXrxFacilityTypeMc",
+        "value": "OVERDRAFT"
+    },
+    {
+        "connector": "HDXrxGoverningLawMc",
+        "value": "ENGLISH AND WELSH"
+    },
+    {
+        "connector": "HDXrxInterestTypeMc",
+        "value": "BASE"
+    },
+    {
+        "connector": "HDXrxSegmentMc",
+        "value": "COMMERCIAL BANKING"
+    },
+    {
+        "connector": "HDXrxSyndicatedTf",
+        "value": false
+    },
+    {
+        "connector": "HDAnnualAccountsNum",
+        "value": 270
+    },
+    {
+        "connector": "HDBaseRateSetNum",
+        "value": 5.25
+    },
+    {
+        "connector": "HDConditionNum",
+        "value": 1
+    },
+    {
+        "connector": "HDDefaultRateFixedSetNum",
+        "value": 2
+    },
+    {
+        "connector": "HDDefaultRateSetNum",
+        "value": 15
+    },
+    {
+        "connector": "HDFacAmountNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDGrossLimitNum",
+        "value": 1000
+    },
+    {
+        "connector": "HDHalfYearlyAccountsDaysNum",
+        "value": 60
+    },
+    {
+        "connector": "HDInitialInterestRateNum",
+        "value": 1
+    },
+    {
+        "connector": "HDInterestLimitNum",
+        "value": 100
+    },
+    {
+        "connector": "HDMADaysRMPNum",
+        "value": 270
+    },
+    {
+        "connector": "HDMARepeatsSetNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDMonitorFormOthNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDMortgageRateSetNum",
+        "value": 6.79
+    },
+    {
+        "connector": "HDN/SUndInternalNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDN/SUndertakingsNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDNSPInternalNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDNSPOtherNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDNum",
+        "value": 2
+    },
+    {
+        "connector": "HDPropSaleProcCondNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDRMPBaseRateNum",
+        "value": 5.25
+    },
+    {
+        "connector": "HDRMPConditionNum",
+        "value": 1
+    },
+    {
+        "connector": "HDRMPFacAmountNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDRMPSecurityNum",
+        "value": 1
+    },
+    {
+        "connector": "HDRMPSecuritySuppNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDRMPSecurityValueNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDRMPTeamIDNum",
+        "value": [
+            4671,
+            4671,
+            459,
+            4651,
+            4656,
+            4657,
+            8617,
+            8626,
+            8633,
+            8616,
+            8618,
+            6910,
+            6911
+        ]
+    },
+    {
+        "connector": "HDRMPUB3MLiborRateNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDRMPUBAA1RateNum",
+        "value": 8.45
+    },
+    {
+        "connector": "HDRMPUBCOFRateNum",
+        "value": 3.49
+    },
+    {
+        "connector": "HDRMPUBILDefaultRateNum",
+        "value": 9
+    },
+    {
+        "connector": "HDRMPUBLDefaultRateNum",
+        "value": 17
+    },
+    {
+        "connector": "HDRemainInterestRateNum",
+        "value": 2
+    },
+    {
+        "connector": "HDSecurityNum",
+        "value": 1
+    },
+    {
+        "connector": "HDSecuritySuppNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDSecurityValueNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDXrxFacilityAmountNum",
+        "value": 0E-7
+    },
+    {
+        "connector": "HDAddForNoticesPmtTxt",
+        "value": "Borrower 's Address"
+    },
+    {
+        "connector": "HDBorrAdd1Txt",
+        "value": "Marquis Street"
+    },
+    {
+        "connector": "HDBorrAdd2Txt",
+        "value": "UK"
+    },
+    {
+        "connector": "HDBorrAdd3Txt",
+        "value": "PR4 2HY"
+    },
+    {
+        "connector": "HDBranchA/cHoldSortCodeMultiTxt",
+        "value": [
+            "53 42 32",
+            "53 42 32"
+        ]
+    },
+    {
+        "connector": "HDBranchA/cHoldSortCodeSingleTxt",
+        "value": "53 42 32"
+    },
+    {
+        "connector": "HDBranchA/cHoldSortCodeTxt",
+        "value": "010705"
+    },
+    {
+        "connector": "HDBranchReqAdd1Txt",
+        "value": "1 Hardman Boulevard"
+    },
+    {
+        "connector": "HDBranchReqAdd2Txt",
+        "value": "Manchester"
+    },
+    {
+        "connector": "HDBranchReqAdd3Txt",
+        "value": "M3 3AP"
+    },
+    {
+        "connector": "HDBranchReqAdd4Txt",
+        "value": "United Kingdom"
+    },
+    {
+        "connector": "HDBranchReqNameTxt",
+        "value": "Corporate & Commercial- REF"
+    },
+    {
+        "connector": "HDCompanyNameTxt",
+        "value": "BAXTER CONSTRUCTION LIMITED"
+    },
+    {
+        "connector": "HDCompanyNum",
+        "value": "02488907"
+    },
+    {
+        "connector": "HDCondTypeTxt",
+        "value": "Financial Statements"
+    },
+    {
+        "connector": "HDConditionDetailsTxt",
+        "value": "Annual Audited Financial required in 270 days of period end."
+    },
+    {
+        "connector": "HDConditionTimingTxt",
+        "value": "Post-drawdown"
+    },
+    {
+        "connector": "HDConditionTypeTxt",
+        "value": "CONDITION"
+    },
+    {
+        "connector": "HDConnectionNameTxt",
+        "value": "Baxter Construction Ltd"
+    },
+    {
+        "connector": "HDContactEmailTxt",
+        "value": "abc.xyz@natwest.com"
+    },
+    {
+        "connector": "HDContacTf",
+        "value": "N/A"
+    },
+    {
+        "connector": "HDContactMobileTxt",
+        "value": "+44 (0) 7769 885327"
+    },
+    {
+        "connector": "HDContactNameTxt",
+        "value": "Abc Xyz"
+    },
+    {
+        "connector": "HDContactTelTxt",
+        "value": "+44 (0) 7769 885327"
+    },
+    {
+        "connector": "HDCountryOfIncorporationTxt",
+        "value": "United Kingdom (UK)"
+    },
+    {
+        "connector": "HDCtrlInterviewSetTxt",
+        "value": "UKCB_F_"
+    },
+    {
+        "connector": "HDOI_od_group_bus_new",
+        "value": ""
+    },
+    {
+        "connector": "HDCtrlTemplateSetTxt",
+        "value": "UKCB_F_"
+    },
+    {
+        "connector": "HDOT_od_group_bus_new",
+        "value": ""
+    },
+    {
+        "connector": "HDCtrlTransactionTypeSetTxt",
+        "value": "Overdraft - group"
+    },
+    {
+        "connector": "HDCustIdNoTxt",
+        "value": "1131798393"
+    },
+    {
+        "connector": "HDCustIdTxt",
+        "value": "1131798393"
+    },
+    {
+        "connector": "HDDocRefTxt",
+        "value": "175621600"
+    },
+    {
+        "connector": "HDDocSourceTxt",
+        "value": "RMP"
+    },
+    {
+        "connector": "HDFacA/cNum",
+        "value": [
+            "56432345",
+            "56432346"
+        ]
+    },
+    {
+        "connector": "HDFacA/cNum",
+        "value": "20095252"
+    },
+    {
+        "connector": "HDFacPurposeTxt",
+        "value": "buying new plants"
+    },
+    {
+        "connector": "HDFacilityTypeTxt",
+        "value": "Overdraft"
+    },
+    {
+        "connector": "HDFinCovLTVTermTxt",
+        "value": "Annual"
+    },
+    {
+        "connector": "HDFinCovTypeTxt",
+        "value": "POSDRDW"
+    },
+    {
+        "connector": "HDNew/RenewTxt",
+        "value": "Renewal"
+    },
+    {
+        "connector": "HDRMNameTxt",
+        "value": "Mno Pqr"
+    },
+    {
+        "connector": "HDRMPBranchSortCodeTxt",
+        "value": "010705"
+    },
+    {
+        "connector": "HDRMPCompanyNameTxt",
+        "value": "BAXTER CONSTRUCTION LIMITED"
+    },
+    {
+        "connector": "HDRMPCompanyNum",
+        "value": 2488907
+    },
+    {
+        "connector": "HDRMPCondTypeTxt",
+        "value": "Financial Statements"
+    },
+    {
+        "connector": "HDRMPConditionDetailsTxt",
+        "value": "Annual Audited Financial required in 270 days of period end."
+    },
+    {
+        "connector": "HDRMPConditionTimingTxt",
+        "value": "Post-drawdown"
+    },
+    {
+        "connector": "HDRMPConditionTypeCodeTxt",
+        "value": "AA"
+    },
+    {
+        "connector": "HDRMPConditionTypeTxt",
+        "value": "CONDITION"
+    },
+    {
+        "connector": "HDRMPConnectionNameTxt",
+        "value": "Baxter Construction Ltd"
+    },
+    {
+        "connector": "HDRMPCountryOfIncorpTxt",
+        "value": "United Kingdom (UK)"
+    },
+    {
+        "connector": "HDRMPCustIdNoTxt",
+        "value": "1131798393"
+    },
+    {
+        "connector": "HDRMPFacA/cNum",
+        "value": "20095252"
+    },
+    {
+        "connector": "HDRMPFacilityCurrencyTxt",
+        "value": "GBP"
+    },
+    {
+        "connector": "HDRMPFacilityTypeCodeTxt",
+        "value": "40"
+    },
+    {
+        "connector": "HDRMPFacilityTypeTxt",
+        "value": "Overdraft"
+    },
+    {
+        "connector": "HDRMPRMNameTxt",
+        "value": "Mno Pqr"
+    },
+    {
+        "connector": "HDRMPSecurityPledgedByTxt",
+        "value": "BAXTER CONSTRUCTION LIMITED"
+    },
+    {
+        "connector": "HDRMPSecurityScheduleTxt",
+        "value": "1 Debenture (Held) pledged by BAXTER CONSTRUCTION LIMITED"
+    },
+    {
+        "connector": "HDRMPSecurityStatusTxt",
+        "value": "Held"
+    },
+    {
+        "connector": "HDRMPSecurityTypeCodeTxt",
+        "value": "DEB"
+    },
+    {
+        "connector": "HDRMPSecurityTypeTxt",
+        "value": "Debenture"
+    },
+    {
+        "connector": "HDRMPTeamNameTxt",
+        "value": [
+            "Edinburgh Commercial 1",
+            "Edinburgh Commercial 1",
+            "MD Facility Agreement Requests",
+            "MD Facility Request",
+            "MD Release Request",
+            "MD Security Request (E&W)",
+            "SD  Edinburgh Comm Team 1",
+            "SD  Facility Agreement Request",
+            "SD  Facility Request",
+            "SD  Release Request",
+            "SD  Security Request",
+            "SD Facility Agreement Request",
+            "SD Facility Request"
+        ]
+    },
+    {
+        "connector": "HDRMPTeamTypeTxt",
+        "value": [
+            "R",
+            "S",
+            "F",
+            "F",
+            "R",
+            "S",
+            "R",
+            "F",
+            "F",
+            "R",
+            "S",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "connector": "HDRMPUserRoleTxt",
+        "value": "RM"
+    },
+    {
+        "connector": "HDSalutationTxt",
+        "value": "Mr"
+    },
+    {
+        "connector": "HDSecurityPledgedByTxt",
+        "value": "BAXTER CONSTRUCTION LIMITED"
+    },
+    {
+        "connector": "HDSecurityScheduleTxt",
+        "value": "1 Debenture (Held) pledged by BAXTER CONSTRUCTION LIMITED"
+    },
+    {
+        "connector": "HDSecurityStatusTxt",
+        "value": "Held"
+    },
+    {
+        "connector": "HDSecurityTypeTxt",
+        "value": "Debenture"
+    },
+    {
+        "connector": "HDSigningPanelDesignationTxt",
+        "value": "RM"
+    },
+    {
+        "connector": "HDSigningPanelTxt",
+        "value": "MNO PQR"
+    },
+    {
+        "connector": "HDSoleTraderFirstNameTxt",
+        "value": "ABC"
+    },
+    {
+        "connector": "HDSoleTraderSurnameTxt",
+        "value": "Limited"
+    },
+    {
+        "connector": "HDUBRMPFacilityCurrencyTxt",
+        "value": "GBP"
+    },
+    {
+        "connector": "HDXrxAccountNum",
+        "value": "20095252"
+    },
+    {
+        "connector": "HDXrxCINNum",
+        "value": "1131798393"
+    },
+    {
+        "connector": "HDXrxCISTxt",
+        "value": "Z1QFVGB"
+    },
+    {
+        "connector": "HDXrxConnectionNameTxt",
+        "value": "Baxter Construction Ltd"
+    },
+    {
+        "connector": "HDXrxCustomerNameTxt",
+        "value": "BAXTER CONSTRUCTION LIMITED"
+    },
+    {
+        "connector": "HDOnlineRefTxt",
+        "value": "175621600"
+    },
+    {
+        "connector": "HDXrxRMPCodeTxt",
+        "value": "1"
+    },
+    {
+        "connector": "HDXrxRMPFacRefTxt",
+        "value": "576648200"
+    },
+    {
+        "connector": "HDXrxSRSIDTxt",
+        "value": "2355164"
+    },
+    {
+        "connector": "HDXrxSortCodeTxt",
+        "value": "010705"
+    },
+    {
+        "connector": "HD_TemplateVersion",
+        "value": "version267"
+    }
+]}
